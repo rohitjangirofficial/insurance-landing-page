@@ -4,8 +4,8 @@ import "@radix-ui/themes/styles.css";
 import { Theme } from "@radix-ui/themes";
 
 export const metadata: Metadata = {
-  title: "Portfolio Project",
-  description: "Next.js Portfolio Project",
+  title: "Landing Page",
+  description: "Next.js Landing Page",
 };
 
 export default function RootLayout({
